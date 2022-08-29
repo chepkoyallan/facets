@@ -1,0 +1,6 @@
+Build label: 0.24.0
+Build target: bazel-out/darwin-opt/bin/src/main/java/com/google/devtools/build/lib/bazel/BazelServer_deploy.jar
+Build time: Tue Mar 26 16:15:16 2019 (1553616916)
+Build timestamp: 1553616916
+Build timestamp as int: 1553616916
+
